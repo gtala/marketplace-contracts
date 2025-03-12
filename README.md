@@ -45,9 +45,9 @@ yarn hardhat node
 
 ## Interacting with Contracts
 
-Use the Hardhat console to interact with deployed contracts:
+Deployed Marketplace
 ```sh
-yarn hardhat console --network bsctestnet
+https://testnet.bscscan.com/address/0x45fB9b8cD0f8e139A49FDC3cd879a589b5574936#code
 ```
 
 ## License
